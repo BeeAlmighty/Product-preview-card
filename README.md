@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [ Vercel ](https://product-preview-card-six-rho.vercel.app/)
 
 ## My process
 
